@@ -1,2 +1,5 @@
 env-pytorch
 .venv
+data/
+venv
+env
